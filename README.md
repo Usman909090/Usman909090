@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/114exlxH9mCpBHO1dvCSut-sHySkJpcf9/view](https://drive.google.com/file/d/114exlxH9mCpBHO1dvCSut-sHySkJpcf9/view)
 
-- ⚡ Fun fact **I think that the software industry is like an ocean, the more you dive in, the more you discover. The more yo solve problems, the more you came to now about new things.**
+- ⚡ Fun fact **I think that the software industry is like an ocean, the more you dive in, the more you discover. The more you solve problems, the more you came to now about new things.**
 
 <div align="center">
   
